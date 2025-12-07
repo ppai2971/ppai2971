@@ -1,6 +1,6 @@
 ## Hi there! 🐢 
 
-Nice to meet you. My name is Preethi and I'm a senior at the University of Maryland, College Park studying Computer Science with a double major in Linguistics. This summer I'm a network engineering intern at OneMain Financial.
+Nice to meet you. My name is Preethi and I'm a senior at the University of Maryland, College Park studying Computer Science with a double major in Linguistics.
 
 Feel free to reach out to me:
 - (university email) [ppai12@umd.edu](ppai12@umd.edu)
