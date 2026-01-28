@@ -1,12 +1,10 @@
 ## Hi there! 🐢 
 
-Nice to meet you. My name is Preethi and I'm a senior at the University of Maryland, College Park studying Computer Science with a double major in Linguistics.
+Nice to meet you. My name is Preethi and I'm an alumni of University of Maryland, College Park with a B.S. in Computer Science with a double major in Linguistics.
 
 Feel free to reach out to me:
-- (university email) [ppai12@umd.edu](ppai12@umd.edu)
-- (personal email) [p.preethi.2971@gmail.com](p.preethi.2971@gmail.com)
-- (linkedin) [www.linkedin.com/in/preethi-pai-bb726b276](www.linkedin.com/in/preethi-pai-bb726b276)
-
+- email - p.preethi.2971@gmail.com
+- linkedin - www.linkedin.com/in/preethi-pai-bb726b276
 
 <!--
 **ppai2971/ppai2971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
